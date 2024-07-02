@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import { ClientContextProvider } from './context/ClientContext';
 import { Connect } from './Connect';
